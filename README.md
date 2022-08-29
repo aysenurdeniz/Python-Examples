@@ -1,8 +1,25 @@
-# Python-ile-Ses-Tan-ma-
+# Python-Example
+
+### - ConverterFile.py
 
 ----------------------------------
-### pip install pyaudio
-### pip install SpeechRecognition
+pip install csv
+
+pip install json
+
+----------------------------------
+Methods:
+- csv_to_json
+- excel_to_csv
+
+
+
+### - SoundAnalysis.py
+
+----------------------------------
+pip install pyaudio
+
+pip install SpeechRecognition
 
 ----------------------------------
 

@@ -17,7 +17,6 @@ with sr.Microphone() as source:
             print("Saat " + str(time.localtime().tm_hour) + "'i " + str(time.localtime().tm_min) + " geçiyor.")
         elif "hava durumu" in text.lower():
             print("Hangi ildesin Ayşenur?")
-
         else:
             print("Ne demek istediğiniz anlamadım.")
 
@@ -30,4 +29,5 @@ def hava(il):
     print (parse[2], parse[4], parse[5])
     return (hava)
 
-hava()
+
+
