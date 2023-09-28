@@ -1,3 +1,4 @@
+# pip install rembg
 from rembg import remove
 from PIL import Image
 
